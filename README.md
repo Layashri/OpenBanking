@@ -1,4 +1,4 @@
-# OpenBanking
+# OpenBanking API assessment
 
 It is prepared for assessment with Serenity BDD and Rest assured.
 
