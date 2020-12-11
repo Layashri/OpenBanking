@@ -1,0 +1,5 @@
+Base\Environment.class
+Base\OpenBankingDefinition.class
+Base\TestHooks.class
+TestEndpoints\Endpts.class
+TestRunner.class
