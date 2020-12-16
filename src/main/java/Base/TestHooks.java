@@ -10,13 +10,12 @@ import static net.serenitybdd.screenplay.actors.OnStage.setTheStage;
 
 public class TestHooks {
 
-    private EnvironmentVariables env;
-
     @Before
     public void intTest(){
         setTheStage(new OnlineCast());
     }
 
+    @After
    public void closeTest(){
         System.out.println("Execution Completed");
    }
